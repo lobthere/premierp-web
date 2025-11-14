@@ -1,0 +1,56 @@
+body {
+    background-color: aqua;
+    margin: 0;
+    padding: 10px;
+}
+
+h1{
+    color: black;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h3 {
+    color: black;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+p{
+    font-size: 15;
+    line-height: normal;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: aqua;
+    position: sticky;
+    top: 0;
+}
+
+img{
+    border-radius:  8px;
+}
+
+.nuclear-pas {
+    margin-bottom: 50px;
+}
+
+div.container{
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.Sommaire {
+    font-size: 50 px;
+}
